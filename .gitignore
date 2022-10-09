@@ -1,0 +1,10 @@
+*.pyc
+.ipynb_checkpoints
+
+data
+logs
+runs
+wandb
+models
+
+data_preprocessed*
