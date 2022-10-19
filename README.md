@@ -1,6 +1,6 @@
 # DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining
 
-This repo provides the source code & data of our paper "[DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining]()" (NeurIPS 2022).
+This repo provides the source code & data of our paper "[DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining](https://arxiv.org/abs/2210.09338)" (NeurIPS 2022).
 
 
 ### Overview
