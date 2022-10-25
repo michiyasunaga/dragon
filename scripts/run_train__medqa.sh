@@ -64,6 +64,7 @@ echo "******************************"
 
 save_dir_pref='runs'
 mkdir -p $save_dir_pref
+mkdir -p logs
 
 run_name=dragon__${dataset}_ih_${inhouse}_load__elr${elr}_dlr${dlr}_b${bs}_ufz${unfreeze_epoch}_e${n_epochs}_sd${seed}__${dt}
 log=logs/train__${run_name}.log.txt

@@ -81,6 +81,7 @@ echo "******************************"
 
 save_dir_pref='runs'
 mkdir -p $save_dir_pref
+mkdir -p logs
 
 run_name=dragon__${dataset}__${dt}
 log=logs/pretrain__${run_name}.log.txt
