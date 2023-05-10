@@ -117,10 +117,10 @@ If you wish to use a larger, general corpus like BookCorpus, follow Section 5 (U
 ## 4. Evaluate trained models
 For CommonsenseQA, OpenBookQA, RiddleSense, MedQA, run:
 ```
-scripts/eval_dragon__csqa.sh
-scripts/eval_dragon__obqa.sh
-scripts/eval_dragon__riddle.sh
-scripts/eval_dragon__medqa.sh
+scripts/run_eval__csqa.sh
+scripts/run_eval__obqa.sh
+scripts/run_eval__riddle.sh
+scripts/run_eval__medqa.sh
 ```
 You can download trained model checkpoints in the next section.
 
